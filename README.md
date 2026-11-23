@@ -1,4 +1,4 @@
-# Next.js Admin Template with TypeScript & Shadcn UI
+# Next.js Admin Template with TypeScript & Shadcn UI Fork
 
 **Studio Admin** - Includes multiple dashboards, authentication layouts, customizable theme presets, and more.
 
